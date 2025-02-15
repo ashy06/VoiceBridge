@@ -1,4 +1,4 @@
-# Cross-Lingual Client-Server Application
+# VoiceBridge: Cross-Lingual Client-Server Application
 
 ## Project Overview
 
